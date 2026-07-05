@@ -123,7 +123,7 @@ philosophy: >
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack
 
 <table>
 <tr><td valign="top" width="50%">
