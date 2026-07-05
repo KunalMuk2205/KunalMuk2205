@@ -33,6 +33,8 @@ location: Bhopal, India
 education: B.Tech, Computer Science & Engineering (VIT Bhopal)
 graduation: 2027
 cgpa: 8.85 / 10.0
+10th : 93.8 %
+12th : 91.8 %
 
 current_role: LLM Post-Training Intern @ Ethara AI
 
