@@ -13,7 +13,6 @@
 <!-- ===================== QUICK BADGES ===================== -->
 <img src="https://img.shields.io/badge/B.Tech-CSE-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/VIT-Bhopal-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-8.85%2F10-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-F59E0B?style=for-the-badge" />
 
 <br/><br/>
