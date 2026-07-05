@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HERO BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7c3aed,100:be185d&height=230&section=header&text=Kunal%20Mukherjee&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Building%20Intelligent%20Software%20%7C%20Learning%20Scalable%20Systems&descAlignY=56&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7c3aed,100:be185d&height=230&section=header&text=Kunal%20Mukherjee&fontSize=54&fontColor=ffffff&fontAlignY=32&desc=AI%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Open%20Source%20%E2%80%94%20Building%20Intelligent%20Applications&descAlignY=54&descSize=16&animation=fadeIn"/>
 
 <!-- ===================== TYPING SVG ===================== -->
 <a href="https://git.io/typing-svg">
@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/badge/VIT-Bhopal-EC4899?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CGPA-8.85%2F10-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-F59E0B?style=for-the-badge" />
+
+<br/><br/>
+
+### 🤖 AI & Software Engineering Enthusiast
+*Building AI-powered applications while learning scalable software engineering.*
 
 </div>
 
@@ -33,10 +38,10 @@ location: Bhopal, India
 education: B.Tech, Computer Science & Engineering (VIT Bhopal)
 graduation: 2027
 cgpa: 8.85 / 10.0
-10th : 93.8 %
-12th : 91.8 %
+10th : 93.8%
+12th : 91.8%
 
-Experience : LLM Post-Training Intern @ Ethara AI
+Experience : LLM Post-Training Intern @ Ethara AI (Feb 2026 -May 2026)
 
 focus_areas:
   - Machine Learning & Deep Learning
@@ -54,7 +59,9 @@ philosophy: >
 - 🎓 Final-year CS student, graduating 2027
 - 🧠 Hands-on with SFT, RLHF & hallucination detection
 - 🛠️ Built 3 shipped AI/ML side projects
+- 🧩 Solved **200+ LeetCode** problems
 - 🏆 Led a 10-member tech community team
+- 🎖️ Discipline Team Member — leadership & team management
 - 🌱 Currently deep-diving into System Design & Docker
 
 </td>
@@ -104,6 +111,15 @@ philosophy: >
 
 </details>
 
+<details>
+<summary><b>🔹 Discipline Team Member — VIT Bhopal</b></summary>
+<br/>
+
+- Maintained order and coordination across large-scale college events
+- Strengthened **communication, leadership & team management** skills through direct student coordination
+
+</details>
+
 ---
 
 <!-- ===================== TECH STACK ===================== -->
@@ -145,11 +161,12 @@ philosophy: >
 <img src="https://img.shields.io/badge/Computer%20Vision-8E44AD?style=flat-square"/>
 </p>
 
-**Database**
+**Database & Cloud**
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 **Tools**
@@ -270,6 +287,15 @@ Currently building projects around **System Design**, **Docker**, and the **MERN
 
 - Recruitment & Management Team Lead — iCreate Technical Community
 - Operations Co-Lead — VIT Music Club
+- Discipline Team Member — VIT Bhopal (communication, leadership & team management)
+
+</details>
+
+<details>
+<summary><b>🧩 Problem Solving</b></summary>
+<br/>
+
+- Solved **200+ problems** on LeetCode across Data Structures & Algorithms
 
 </details>
 
@@ -352,14 +378,22 @@ class SoftwareEngineer:
 
 <div align="center">
 
+<a href="mailto:kunal.mukherjee2205@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/kunal-mukherjee-10a26a289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:kunal.mukherjee2205@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://github.com/KunalMuk2205" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<!-- TODO: Replace # with your hosted resume link (e.g. Google Drive / Notion / personal site) -->
+<a href="https://drive.google.com/file/d/1-eIYZrLH9B5RVudfOzQRMICG_e-30l5w/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+</a>
+<!-- TODO: Replace # with your LeetCode profile link -->
+<a href="https://leetcode.com/u/Kunal2205/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -377,7 +411,7 @@ class SoftwareEngineer:
 
 **"Building intelligent software while learning scalable software engineering."**
 
-⭐️ *If you find my work interesting, a star on my repos means a lot!*
+⭐️ *Let's connect and build something amazing together 🚀*
 
 *Made with 🧠 and lots of ☕*
 
