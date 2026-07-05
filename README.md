@@ -189,7 +189,7 @@ philosophy: >
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ [FORM-FIT](https://github.com/FormFit)
+### 🏋️ [FORM-FIT]([https://github.com/FormFit](https://github.com/KunalMuk2205/FormFit))
 **AI Fitness Form Assistant**
 
 Real-time posture tracking & corrective feedback using computer vision.
