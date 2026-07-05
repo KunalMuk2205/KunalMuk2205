@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HERO BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:be185d&height=220&section=header&text=Kunal%20Mukherjee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligent%20Software%20%7C%20Learning%20Scalable%20Systems&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:7c3aed,100:be185d&height=230&section=header&text=Kunal%20Mukherjee&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Building%20Intelligent%20Software%20%7C%20Learning%20Scalable%20Systems&descAlignY=56&descSize=18&animation=fadeIn"/>
 
 <!-- ===================== TYPING SVG ===================== -->
 <a href="https://git.io/typing-svg">
@@ -16,11 +16,6 @@
 <img src="https://img.shields.io/badge/CGPA-8.85%2F10-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-F59E0B?style=for-the-badge" />
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=KunalMuk2205&label=Profile%20Views&color=be185d&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/KunalMuk2205?label=Followers&style=for-the-badge&color=6366F1" alt="followers"/>
-
 </div>
 
 <br/>
@@ -30,7 +25,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ```yaml
 name: Kunal Mukherjee
@@ -52,9 +47,6 @@ philosophy: >
    learning scalable software engineering."
 ```
 
-</td>
-<td width="40%" valign="top">
-
 **⚡ Quick Facts**
 
 - 🎓 Final-year CS student, graduating 2027
@@ -62,6 +54,11 @@ philosophy: >
 - 🛠️ Built 3 shipped AI/ML side projects
 - 🏆 Led a 10-member tech community team
 - 🌱 Currently deep-diving into System Design & Docker
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
 </td>
 </tr>
@@ -293,6 +290,61 @@ Currently building projects around **System Design**, **Docker**, and the **MERN
 
 ---
 
+<!-- ===================== CAREER OBJECTIVES ===================== -->
+## 🌟 Career Objectives
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Seeking Opportunities In:**
+
+- 🔹 Machine Learning Engineering
+- 🔹 AI / LLM Engineering
+- 🔹 Computer Vision
+- 🔹 Full-Stack Development
+- 🔹 Applied AI Research
+
+</td>
+<td width="50%" valign="top">
+
+**💡 What I Bring:**
+
+- ✨ Strong ML/DL foundation, backed by real internship work
+- ✨ Full-stack shipping experience (React + Flask)
+- ✨ Fast learner with a builder's mindset
+- ✨ Proven leadership across 10+ member teams
+- ✨ Genuine curiosity for AI's real-world impact
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== PHILOSOPHY ===================== -->
+## 💭 Philosophy
+
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Kunal Mukherjee"
+        self.passions = ["AI/ML", "Computer Vision", "Scalable Systems"]
+        self.motto = "Build. Learn. Ship. Repeat."
+
+    def daily_routine(self):
+        while self.is_curious:
+            self.learn_something_new()
+            self.build_intelligent_systems()
+            self.write_clean_code()
+            self.grow_as_an_engineer()
+
+    def life_goal(self):
+        return "Building AI-powered software that solves real problems 🚀"
+```
+
+---
+
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect
 
@@ -319,25 +371,12 @@ Currently building projects around **System Design**, **Docker**, and the **MERN
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,100:1e1b4b&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,50:7c3aed,100:1e1b4b&height=120&section=footer"/>
 
 **"Building intelligent software while learning scalable software engineering."**
 
 ⭐️ *If you find my work interesting, a star on my repos means a lot!*
 
-</div>## Hi there 👋
+*Made with 🧠 and lots of ☕*
 
-<!--
-**KunalMuk2205/KunalMuk2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
