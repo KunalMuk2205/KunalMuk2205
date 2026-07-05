@@ -36,7 +36,7 @@ cgpa: 8.85 / 10.0
 10th : 93.8 %
 12th : 91.8 %
 
-current_role: LLM Post-Training Intern @ Ethara AI
+Experience : LLM Post-Training Intern @ Ethara AI
 
 focus_areas:
   - Machine Learning & Deep Learning
